@@ -53,3 +53,63 @@
 - WorldGuard (v7.0.9+5934e49)
 - Vulcan (v2.8.6)
 - ProtocolLib (v5.2.0-SNAPSHOT-679)
+
+
+## Server.properties 
+
+```
+enable-jmx-monitoring: false
+rcon.port: 25575
+enable-command-block: true
+gamemode: survival
+enable-query: false
+generator-settings: {}
+enforce-secure-profile: false
+level-name: lobby
+query.port: 25623
+pvp: true
+generate-structures: true
+max-chained-neighbor-updates: 1000000
+difficulty: easy
+network-compression-threshold: 256
+max-tick-time: 60000
+require-resource-pack: false
+max-players: 300
+use-native-transport: true
+enable-status: true
+online-mode: false
+allow-flight: false
+initial-disabled-packs:
+broadcast-rcon-to-ops: true
+view-distance: 10
+resource-pack-prompt:
+allow-nether: false
+server-port: 25623
+enable-rcon: false
+sync-chunk-writes: true
+resource-pack-id:
+op-permission-level: 4
+prevent-proxy-connections: false
+hide-online-players: false
+entity-broadcast-range-percentage: 100
+simulation-distance: 10
+player-idle-timeout: 0
+debug: false
+force-gamemode: false
+rate-limit: 0
+hardcore: false
+white-list: true
+broadcast-console-to-ops: true
+spawn-npcs: true
+spawn-animals: false
+log-ips: true
+function-permission-level: 2
+initial-enabled-packs: vanilla
+level-type: minecraft:normal
+text-filtering-config:
+spawn-monsters: false
+enforce-whitelist: false
+resource-pack-sha1:
+spawn-protection: 16
+max-world-size: 29999984
+```
