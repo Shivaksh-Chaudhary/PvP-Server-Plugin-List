@@ -1,7 +1,10 @@
 # PvP-Server-Plugin-List
 
-## Note:- ### All the plugin which are listed here are form spacex server plugin list
+## Note:- All the plugin which are listed here are form spacex server plugin list
 
+## Server CONFIGURATION
+- The detected Minecraft version is "1.20.4"
+- The process is using Java 21.0.3
 
 ### PLUGINS LIST
 
