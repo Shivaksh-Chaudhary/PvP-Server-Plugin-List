@@ -6,6 +6,8 @@
 - The detected Minecraft version is "1.20.4"
 - The process is using Java 21.0.3
 
+![Spark](IMG_20240629_072309.jpg)
+
 ### PLUGINS LIST
 
 - PlaceholderAPI (v2.11.5)
